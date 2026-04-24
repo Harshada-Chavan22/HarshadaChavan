@@ -2,17 +2,18 @@
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech Computer Engineering student  
-- 💻 Passionate about Web Development & Problem Solving   
+- 💻 Passionate about Web Development & Problem Solving  
+- 🧠 Solved 30+ DSA problems  
 - 🚀 Currently working on ML & React projects  
 - 📍 From Dhule, Maharashtra  
-- 📫 Email: harshada@example.com  
+- 📫 Email: harshadachavhan2005@gmail.com 
 
 ---
 
 ## 🧑‍💻 Coding Profiles
-[![LeetCode](https://leetcode.com/u/Harshada_22/)](https://leetcode.com/)
-[![LinkedIn](https://www.linkedin.com/in/harshada-chavan-944540294/)](https://linkedin.com/)
-[![HackerRank](https://www.hackerrank.com/profile/harshadachavhan1)](https://hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge)](https://geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
 
 ---
 
