@@ -37,5 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
 
 ---
-
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](your-link)
 
