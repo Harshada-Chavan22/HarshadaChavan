@@ -42,7 +42,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/harshu_22_5/?hl=en)
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view">
+  <a href="https://drive.google.com/file/d/https://drive.google.com/file/d/1oSTOfEdfQF_GRZ1NwDF8HPBwrniHkuv9/view?usp=sharing/view">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
