@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Harshada_22/)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge)](https://geeksforgeeks.org/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
 
