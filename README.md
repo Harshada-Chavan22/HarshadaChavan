@@ -12,8 +12,8 @@
 
 ## 🧑‍💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Harshada_22/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge)](https://www.geeksforgeeks.org/profile/harshadachr8cu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/harshadachavhan1)
 
 ---
 
@@ -38,18 +38,10 @@
 
 ---
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshada-chavan-944540294/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/harshu_22_5/?hl=en)
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
   <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader">
   </a>
